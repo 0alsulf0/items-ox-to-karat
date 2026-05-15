@@ -72,4 +72,6 @@ items
 
 Permet de lancer automatiquement la conversion des items.
 
+[core] -> karat-core -> modules -> Inventory -> shared -> inventory.lua
+
 ❤️ Développé pour la communauté Karat
