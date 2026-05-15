@@ -22,6 +22,7 @@ resources/[local]/items-ox-to-karat
 Puis ajoutez dans votre server.cfg :
 
 ensure items-ox-to-karat
+
 📂 Ajouter les items
 
 Ajoutez vos items à convertir dans :
@@ -47,6 +48,7 @@ ensure items-ox-to-karat
 Puis lancez la conversion directement depuis la console serveur :
 
 items
+
 📁 Résultat
 
 Une fois la conversion terminée, les items seront automatiquement générés dans :
