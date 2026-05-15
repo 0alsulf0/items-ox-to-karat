@@ -1,4 +1,4 @@
-# items-ox-to-karat / NON DÉVELOPPÉ PAR LA TEAM KARAT
+# / NON DÉVELOPPÉ PAR LA TEAM KARAT
 
 ## 📖 Présentation
 
@@ -13,7 +13,7 @@ ScriptShared.Items:Add(...)
 
 Le but du script est de faciliter les migrations et de faire gagner du temps lors de l’ajout d’items sur votre serveur.
 
-⚙️ Installation
+## ⚙️ Installation
 
 Placez la ressource dans votre dossier :
 
