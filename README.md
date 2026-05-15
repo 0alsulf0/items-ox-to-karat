@@ -1,4 +1,4 @@
-# items-ox-to-karat
+# items-ox-to-karat / NON DÉVELOPPÉ PAR LA TEAM KARAT
 
 ## 📖 Présentation
 
